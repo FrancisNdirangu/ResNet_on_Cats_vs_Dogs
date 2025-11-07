@@ -8,6 +8,7 @@ The main goal of the notebook is to do transfer learning using resnet.
 We will get the resnet18 model
 
 We will then run the first model on a cats and dogs pictures. Find all the relevant classification metrics.
+https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
 
 Then we will take the vanilla resnet and unfreeze some of the last few layers. 
 We will then perform some training using the cats and dogs pictures.
